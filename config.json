@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcrocess",
+        "uuid": 2282460,
+        "checksum": "mkv17i"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
